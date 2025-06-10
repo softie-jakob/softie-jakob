@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning html, css, javascript and json
 - 💞️ I’m looking to collaborate on anything that is a little challenging
 - 📫 How to reach me? -> via email
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: bit of a swiftie
 
 <!---
